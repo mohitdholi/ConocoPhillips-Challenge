@@ -1,4 +1,4 @@
-# ConocoPhillips-Challenge
+# ConocoPhillips - Data Challenge
 Description
 
 As with all mechanical equipment, things break and when things break money is lost in the form of repairs and lost oil production. 
@@ -11,3 +11,5 @@ A data set will be provided that has documented failure events that occurred on 
 Challenge Questions
 
 Predict surface and down-hole failures using the data set provided.
+
+P.S.: Due to dataset being more than 100 MB, it is not uploaded here.
